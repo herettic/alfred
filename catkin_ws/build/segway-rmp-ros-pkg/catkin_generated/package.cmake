@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "segway_rmp")
+set(segway_rmp_MAINTAINER "William Woodall <wjwwood@gmail.com>, Piyush Khandelwal <piyushk@gmail.com>")
+set(segway_rmp_DEPRECATED "")
+set(segway_rmp_VERSION "0.1.2")
+set(segway_rmp_BUILD_DEPENDS "geometry_msgs" "libsegwayrmp" "message_generation" "nav_msgs" "roscpp" "serial" "std_msgs" "tf")
+set(segway_rmp_RUN_DEPENDS "geometry_msgs" "libsegwayrmp" "message_runtime" "nav_msgs" "roscpp" "serial" "std_msgs" "tf")
+set(segway_rmp_BUILDTOOL_DEPENDS "catkin")

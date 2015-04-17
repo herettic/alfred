@@ -1,0 +1,8 @@
+prefix=/home/avengineers/ROS/catkin_ws/install
+
+Name: segbot_firmware
+Description: Description of segbot_firmware
+Version: 0.3.2
+Cflags: 
+Libs: -L/home/avengineers/ROS/catkin_ws/install/lib 
+Requires: 

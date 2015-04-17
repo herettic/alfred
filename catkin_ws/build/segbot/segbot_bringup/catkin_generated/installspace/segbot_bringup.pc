@@ -1,0 +1,8 @@
+prefix=/home/avengineers/ROS/catkin_ws/install
+
+Name: segbot_bringup
+Description: Description of segbot_bringup
+Version: 0.3.2
+Cflags: 
+Libs: -L/home/avengineers/ROS/catkin_ws/install/lib 
+Requires: 
